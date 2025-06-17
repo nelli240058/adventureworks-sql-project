@@ -22,19 +22,26 @@ All queries and results are available in the following Google Sheets document:
 👉 
 1.1 
 https://docs.google.com/spreadsheets/d/1VPw0RuKaTosQEid1rESYaZu1zZGdvYA_NusdRVP0mr4
+
 1.2 
 https://docs.google.com/spreadsheets/d/1UyqNN9sfpiay4UvbZYmTT3f7CLCqpRVCI4ertfR7E4Q
+
 1.3
 https://docs.google.com/spreadsheets/d/1o9RO7KbR-NpGL0pVZlsnyJwkjU4G8p7xe9Cf__x5a-Y
+
 2.1
 https://docs.google.com/spreadsheets/d/1KQtkbtwoFuKiK8RW_sdDHoLKmheUzVRNh2uNHiLCWIc
+
 2.2
 https://docs.google.com/spreadsheets/d/1Z1rfWOtBwC1-SJU8y0G6hB9ypFejeaBX_j-iwMUOnr4
 
+
 2.3 Somethink problem. (Empty results)
+
 
 3.1
 https://docs.google.com/spreadsheets/d/11wNFsJXvQHeOm42SArQeNymrtGoP6IKNsuoBV5V_5eI
+
 
 3.2
 https://docs.google.com/spreadsheets/d/1dVSuErG7rlph8krftTIew3q1G6iZT1EQ_XvxVe7VaYc
